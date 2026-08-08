@@ -38,7 +38,7 @@ APA,APA Corporation,Energy,Oil & Gas Exploration & Production,"Houston, Texas",1
 APD,Air Products,Materials,Industrial Gases,"Upper Macungie Township, Pennsylvania",1985-04-30,2969,1940,APD
 APH,Amphenol,Information Technology,Electronic Components,"Wallingford, Connecticut",2008-09-30,820313,1932,APH
 APO,Apollo Global Management,Financials,Asset Management & Custody Banks,"New York City, New York",2024-12-23,1858681,1990,APO
-APP,AppLovin,Information Technology,Application Software,"Palo Alto, California",2025-09-22,1751008,2012,APP
+APP,AppLovin,Communication Services,Advertising,"Palo Alto, California",2025-09-22,1751008,2012,APP
 APTV,Aptiv,Consumer Discretionary,Automotive Parts & Equipment,"Schaffhausen, Switzerland",2012-12-24,1521332,1994,APTV
 ARE,Alexandria Real Estate Equities,Real Estate,Office REITs,"Pasadena, California",2017-03-20,1035443,1994,ARE
 ARES,Ares Management,Financials,Asset Management & Custody Banks,"Los Angeles, California",2025-12-11,1176948,1977,ARES
@@ -128,7 +128,7 @@ CVX,Chevron Corporation,Energy,Integrated Oil & Gas,"Houston, Texas",1957-03-04,
 D,Dominion Energy,Utilities,Multi-Utilities,"Richmond, Virginia",2016-11-30,715957,1983,D
 DAL,Delta Air Lines,Industrials,Passenger Airlines,"Atlanta, Georgia",2013-09-11,27904,1929,DAL
 DASH,DoorDash,Consumer Discretionary,Specialized Consumer Services,"San Francisco, California",2025-03-24,1792789,2012,DASH
-DD,DuPont,Materials,Specialty Chemicals,"Wilmington, Delaware",2019-06-03,1666700,2017 (1802),DD
+DD,DuPont,Industrials,Industrial Conglomerates,"Wilmington, Delaware",2019-06-03,1666700,2017 (1802),DD
 DDOG,Datadog,Information Technology,Application Software,"New York City, New York",2025-07-09,1561550,2010,DDOG
 DE,Deere & Company,Industrials,Agricultural & Farm Machinery,"Moline, Illinois",1957-03-04,315189,1837,DE
 DECK,Deckers Brands,Consumer Discretionary,Footwear,"Goleta, California",2024-03-18,910521,1973,DECK
@@ -495,7 +495,7 @@ WTW,Willis Towers Watson,Financials,Insurance Brokers,"London, United Kingdom",2
 WY,Weyerhaeuser,Real Estate,Timber REITs,"Seattle, Washington",1979-10-01,106535,1900,WY
 WYNN,Wynn Resorts,Consumer Discretionary,Casinos & Gaming,"Paradise, Nevada",2008-11-14,1174922,2002,WYNN
 XEL,Xcel Energy,Utilities,Multi-Utilities,"Minneapolis, Minnesota",1957-03-04,72903,1909,XEL
-XOM,ExxonMobil,Energy,Integrated Oil & Gas,"Irving, Texas",1957-03-04,34088,1999,XOM
+XOM,ExxonMobil,Energy,Integrated Oil & Gas,"Irving, Texas",1957-03-04,2115436,1999,XOM
 XYL,Xylem Inc.,Industrials,Industrial Machinery & Supplies & Components,"White Plains, New York",2011-11-01,1524472,2011,XYL
 XYZ,"Block, Inc.",Financials,Transaction & Payment Processing Services,none,2025-07-23,1512673,2009,XYZ
 YUM,Yum! Brands,Consumer Discretionary,Restaurants,"Louisville, Kentucky",1997-10-06,1041061,1997,YUM
