@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-08T02:52:11Z",
+  "generated_at": "2026-08-09T02:35:18Z",
   "total": 64,
   "types": [
     "macro",
@@ -136,8 +136,8 @@
       ],
       "frequency": "weekly",
       "history_from": "1986-01-15",
-      "updated_at": "2026-07-28",
-      "sample_count": 1928,
+      "updated_at": "2026-08-04",
+      "sample_count": 1929,
       "data_url": "https://raw.githubusercontent.com/riverfjs/notification/main/data/macro/cot_legacy.csv"
     },
     {
@@ -156,8 +156,8 @@
       ],
       "frequency": "weekly",
       "history_from": "2006-06-13",
-      "updated_at": "2026-07-28",
-      "sample_count": 1051,
+      "updated_at": "2026-08-04",
+      "sample_count": 1052,
       "data_url": "https://raw.githubusercontent.com/riverfjs/notification/main/data/macro/cot_nasdaq100.csv"
     },
     {
@@ -176,8 +176,8 @@
       ],
       "frequency": "weekly",
       "history_from": "2006-06-13",
-      "updated_at": "2026-07-28",
-      "sample_count": 1051,
+      "updated_at": "2026-08-04",
+      "sample_count": 1052,
       "data_url": "https://raw.githubusercontent.com/riverfjs/notification/main/data/macro/cot_sp500.csv"
     },
     {
@@ -283,8 +283,8 @@
       ],
       "frequency": "daily",
       "history_from": "1982-09-27",
-      "updated_at": "2026-08-07",
-      "sample_count": 16021,
+      "updated_at": "2026-08-08",
+      "sample_count": 16022,
       "data_url": "https://raw.githubusercontent.com/riverfjs/notification/main/data/macro/inflation_monetary.csv"
     },
     {
@@ -625,8 +625,8 @@
       ],
       "frequency": "daily",
       "history_from": "1968-01-02",
-      "updated_at": "2026-08-06",
-      "sample_count": 14809,
+      "updated_at": "2026-08-07",
+      "sample_count": 14810,
       "data_url": "https://raw.githubusercontent.com/riverfjs/notification/main/data/spot/XAUUSD.csv"
     },
     {
