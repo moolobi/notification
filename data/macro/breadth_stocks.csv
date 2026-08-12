@@ -1,4 +1,4 @@
-# CAVEAT residual survivorship bias: membership is POINT-IN-TIME (fja05680/sp500, 1996+; after 2026-01-14 = current Wikipedia list), but delisted ex-members missing from yfinance are excluded from numerator AND denominator (they skew to losers -> slight overstatement, worst pre-2013). Prices are split-adjusted but dividend-UNadjusted Close (chart convention = official $S5xx basis; dividend-adjusted MAs would overstate breadth +2-3pp). n_ma* = daily denominator, n_members = PIT members present in the panel universe (coverage = n_ma*/n_members; true index count ~500). Renamed tickers (e.g. FB->META) drop out of the pre-rename window (noise, not directional). Bias vs official $S5TW/FI/TH on 4932d overlap (mean, pp): MA200 +2.86(current-members method) -> -0.18(PIT); MA50 +1.61 -> -0.15; MA20 +1.02 -> -0.06; pre-2013 MA200 +1.43 -> -2.17. Read with comment='#'.
+# CAVEAT residual survivorship bias: membership is POINT-IN-TIME (fja05680/sp500, 1996+; after 2026-01-14 = current Wikipedia list), but delisted ex-members missing from yfinance are excluded from numerator AND denominator (they skew to losers -> slight overstatement, worst pre-2013). Prices are split-adjusted but dividend-UNadjusted Close (chart convention = official $S5xx basis; dividend-adjusted MAs would overstate breadth +2-3pp). n_ma* = daily denominator, n_members = PIT members present in the panel universe (coverage = n_ma*/n_members; true index count ~500). Renamed tickers (e.g. FB->META) drop out of the pre-rename window (noise, not directional). Bias vs official $S5TW/FI/TH on 4933d overlap (mean, pp): MA200 +2.86(current-members method) -> -0.18(PIT); MA50 +1.61 -> -0.15; MA20 +1.02 -> -0.06; pre-2013 MA200 +1.43 -> -2.17. Read with comment='#'.
 date,pct_above_ma20,n_ma20,pct_above_ma50,n_ma50,pct_above_ma200,n_ma200,n_members
 2000-01-31,31.147540983606557,244,,0,,0,340
 2000-02-01,33.46938775510204,245,,0,,0,340
@@ -6670,4 +6670,5 @@ date,pct_above_ma20,n_ma20,pct_above_ma50,n_ma50,pct_above_ma200,n_ma200,n_membe
 2026-08-05,64.81113320079523,503,66.66666666666666,501,70.39999999999999,500,503
 2026-08-06,63.02186878727635,503,63.94422310756972,502,69.8,500,503
 2026-08-07,65.20874751491054,503,65.33864541832669,502,72.6,500,503
-2026-08-10,63.02186878727635,503,65.13944223107569,502,71.0,500,503
+2026-08-10,62.82306163021869,503,64.9402390438247,502,71.0,500,503
+2026-08-11,63.618290258449306,503,63.147410358565736,502,71.0,500,503
