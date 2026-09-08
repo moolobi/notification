@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-07T04:56:05Z",
+  "generated_at": "2026-09-08T04:46:44Z",
   "total": 64,
   "types": [
     "macro",
@@ -107,8 +107,8 @@
       ],
       "frequency": "daily",
       "history_from": "1913-01-01",
-      "updated_at": "2026-09-03",
-      "sample_count": 7717,
+      "updated_at": "2026-09-07",
+      "sample_count": 7719,
       "data_url": "https://raw.githubusercontent.com/riverfjs/notification/main/data/macro/copper_gold_ppi.csv"
     },
     {
@@ -283,8 +283,8 @@
       ],
       "frequency": "daily",
       "history_from": "1982-09-27",
-      "updated_at": "2026-09-06",
-      "sample_count": 16051,
+      "updated_at": "2026-09-07",
+      "sample_count": 16052,
       "data_url": "https://raw.githubusercontent.com/riverfjs/notification/main/data/macro/inflation_monetary.csv"
     },
     {
@@ -433,8 +433,8 @@
       ],
       "frequency": "daily",
       "history_from": "2019-10-07",
-      "updated_at": "2026-09-07",
-      "sample_count": 1806,
+      "updated_at": "2026-09-08",
+      "sample_count": 1807,
       "data_url": "https://raw.githubusercontent.com/riverfjs/notification/main/data/macro/putcall_cboe.csv"
     },
     {
@@ -611,8 +611,8 @@
       ],
       "frequency": "daily",
       "history_from": "2000-08-30",
-      "updated_at": "2026-09-03",
-      "sample_count": 6553,
+      "updated_at": "2026-09-07",
+      "sample_count": 6555,
       "data_url": "https://raw.githubusercontent.com/riverfjs/notification/main/data/spot/COPPER.csv"
     },
     {
@@ -625,8 +625,8 @@
       ],
       "frequency": "daily",
       "history_from": "1968-01-02",
-      "updated_at": "2026-09-04",
-      "sample_count": 14829,
+      "updated_at": "2026-09-07",
+      "sample_count": 14830,
       "data_url": "https://raw.githubusercontent.com/riverfjs/notification/main/data/spot/XAUUSD.csv"
     },
     {
@@ -913,8 +913,8 @@
       ],
       "frequency": "daily",
       "history_from": "1990-01-02",
-      "updated_at": "2026-09-04",
-      "sample_count": 9238,
+      "updated_at": "2026-09-07",
+      "sample_count": 9239,
       "data_url": "https://raw.githubusercontent.com/riverfjs/notification/main/data/tickers/VIX.csv"
     },
     {
